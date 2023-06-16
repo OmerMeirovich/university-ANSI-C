@@ -1,0 +1,38 @@
+ERROR, LINE 2:	 Brackets are no allowed in this command.
+ERROR, LINE 4:	 Illegal label "Cod;em".
+ERROR, LINE 4:	 Unknown command "move".
+ERROR, LINE 5:	 Illegal label "3s4label:".
+ERROR, LINE 5:	 Unknown command "sss".
+ERROR, LINE 8:	 Illegal label ".data:".
+ERROR, LINE 8:	 Unknown command "as".
+ERROR, LINE 9:	 Unknown command "sd".
+ERROR, LINE 10:	 Label name is reserved.
+ERROR, LINE 10:	 Unknown command "as".
+ERROR, LINE 11:	 Label name is reserved.
+ERROR, LINE 11:	 Unknown command "d2".
+ERROR, LINE 12:	 Illegal label "$ssd:".
+ERROR, LINE 12:	 Unknown command "asdasd".
+ERROR, LINE 13:	  Label has no extra arguments.
+ERROR, LINE 15:	 Two consecutive commas/Comma at the end was found.
+ERROR, LINE 17:	 Number is out of range "9999".
+ERROR, LINE 17:	 Number is out of range "888888".
+ERROR, LINE 18:	 Two consecutive commas/Comma at the end was found.
+ERROR, LINE 20:	 Same label has multiple symbols "slas".
+ERROR, LINE 21:	 Same label has multiple symbols "slas".
+ERROR, LINE 21:	 Invalid number ""ss"".
+ERROR, LINE 22:	 Illegal label "2d:".
+ERROR, LINE 23:	 Strings must be surrounded by quotation marks.
+ERROR, LINE 24:	 No string was given.
+ERROR, LINE 26:	 Must specify a string.
+ERROR, LINE 27:	 Strings must be surrounded by quotation marks.
+ERROR, LINE 29:	 Entry directive can only take one parameter.
+ERROR, LINE 30:	 More than one entry for the same label. "s".
+ERROR, LINE 31:	 More than one entry for the same label. "s".
+ERROR, LINE 32:	 Entry directive must have a label parameter.
+ERROR, LINE 34:	 Labels must start with a letter "#-4".
+ERROR, LINE 35:	 This command must take 2 parameters.
+ERROR, LINE 36:	 This command must take 2 parameters.
+ERROR, LINE 37:	 This command can't take an immediate number as a first operand.
+ERROR, LINE 38:	 This command can't take an immediate number as a first operand.
+ERROR, LINE 39:	 This command can't take a register as a first operand.
+ERROR, LINE 40:	 Immediate number is out of range.
